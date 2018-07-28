@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "http://pates.tech/"
 languageCode = "en-us"
 title = "Steam - a minimal theme for Hugo"
 theme = "steam"
@@ -9,7 +9,7 @@ googleAnalytics = ""
 paginate = 10
 
 [params]
-    title = "Steam"
+    title = "Tech notes"
     subtitle = "a minimal theme for ~~Ghost~~ Hugo"
     copyright = "Released under the MIT license."
 

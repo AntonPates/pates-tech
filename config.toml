@@ -1,6 +1,6 @@
 baseurl = "https://pates.tech/"
 languageCode = "en-us"
-title = "Steam - a minimal theme for Hugo"
+title = "Tech notes"
 theme = "steam"
 disqusShortname = ""
 # Enable Google Analytics be inserting your tracking code
@@ -8,9 +8,12 @@ googleAnalytics = ""
 # Number of posts per page
 paginate = 10
 
+[permalinks]
+  post = "/:year/:month/:day/:title/"
+
 [params]
     title = "Tech notes"
-    subtitle = "a minimal theme for ~~Ghost~~ Hugo"
+    subtitle = ""
     copyright = "Released under the MIT license."
 
     # You can choose between green, orange, red and blue.
@@ -23,9 +26,9 @@ paginate = 10
 
     # To provide some metadata for search engines and the about section in the footer
     # feel free to add a few information about you and your website.
-    name = "John Doe"
-    bio = "programmer - blogger - coffee aficionado"
-    description = "Your description of the blog"
+    name = "Anton Pates"
+    bio = "software engineer"
+    description = ""
     
     # Link your social networks (optional)
     location = ""
@@ -43,3 +46,4 @@ paginate = 10
     backtotopStr = "Back to top"
     shareStr = "Share"
     pageNotFoundTitle = "404 - Page not found"
+

@@ -13,7 +13,7 @@ tags: [
     ]
 description: "My impressions and notes"
 ---
-Last wednesday I was on Go meetup in DomClick office. There were four reports:
+Last wednesday I was on Go meetup in DomClick's office. There were four reports:
 
 1. &laquo;Personal blog on Go. The way of the beginner&raquo;. Sweet and not interesting.
 

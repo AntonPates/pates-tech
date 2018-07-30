@@ -13,6 +13,10 @@ tags: [
     ]
 description: "My impressions and notes"
 ---
+
+{{< figure src="https://2.downloader.disk.yandex.ru/preview/de7f81c1f777343966c8004dccc3e22adc2c1c6dc76f15ba4fed7c7598b6b5fb/inf/bO95ItGe64oN2zmmdnlKcI51zUctoly-lC75N9NYragKcYwyzG7DpORP8Baw9M2pgpte1LCNi6Rpv0zi5qHw0A%3D%3D?uid=7960505&filename=2018-07-25%2021-50-04.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=2480x1290" title="Golang meetup in DomClick" >}}
+
+
 Last wednesday I was on Go meetup in DomClick's office. There were four reports:
 
 1. &laquo;Personal blog on Go. The way of the beginner&raquo;. Sweet and not interesting.

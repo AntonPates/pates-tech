@@ -8,8 +8,12 @@ googleAnalytics = ""
 # Number of posts per page
 paginate = 10
 
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+
 [permalinks]
-  post = "/:year/:month/:day/:title/"
+    post = "/:year/:month/:day/:title/"
 
 [params]
     title = "Tech notes"
@@ -29,7 +33,7 @@ paginate = 10
     name = "Anton Pates"
     bio = "software engineer"
     description = ""
-    
+
     # Link your social networks (optional)
     location = ""
     twitter = ""

@@ -16,7 +16,7 @@ description: "My impressions and notes"
 
 {{< figure src="https://17606.selcdn.ru/pates.tech/MVIMG_20180725_215004.jpg" title="Golang meetup in DomClick" >}}
 
-
+<!--more-->
 Last wednesday I was on Go meetup in DomClick's office. There were four reports:
 
 1. &laquo;Personal blog on Go. The way of the beginner&raquo;. Sweet and not interesting.

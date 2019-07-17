@@ -1,7 +1,7 @@
 baseurl = "https://pates.tech/"
 languageCode = "en-us"
 title = "Tech notes"
-theme = "steam"
+theme = "kiera"
 disqusShortname = ""
 # Enable Google Analytics be inserting your tracking code
 googleAnalytics = ""

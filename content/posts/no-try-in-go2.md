@@ -22,4 +22,4 @@ But not this time. At least I have IntelliJ live templates.
 
 
 #### Links
-[Proposal](https://github.com/golang/proposal/blob/master/design/32437-try-builtin.md) and [issue](https://github.com/golang/go/issues/32437).
+[Proposal](https://github.com/golang/proposal/blob/master/design/32437-try-builtin.md), [issue](https://github.com/golang/go/issues/32437) and final [comment](https://github.com/golang/go/issues/32437#issuecomment-512035919).

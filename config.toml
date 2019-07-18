@@ -18,7 +18,7 @@ paginate = 10
 [params]
     title = "Tech notes"
     subtitle = ""
-    copyright = "Released under the MIT license."
+    copyright = "Anton Pates 2018-2019"
 
     # You can choose between green, orange, red and blue.
     themecolor = "green"
@@ -51,3 +51,11 @@ paginate = 10
     shareStr = "Share"
     pageNotFoundTitle = "404 - Page not found"
 
+[author]
+    name = "Anton Pates"       #Author name
+    github = "AntonPates"     #Github username
+    gitlab = ""     #Gitlab username
+    linkedin = "anton-pates-5b906290"   #LinkedIn username
+    facebook = ""   #Facebook username
+    twitter = ""    #Twitter username
+    instagram = ""  #Instagram username

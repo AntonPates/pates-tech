@@ -19,6 +19,7 @@ paginate = 100
     title = "Tech notes"
     subtitle = ""
     copyright = "Anton Pates 2018-2019"
+    paginate = 100
 
     # You can choose between green, orange, red and blue.
     themecolor = "green"
@@ -59,3 +60,9 @@ paginate = 100
     facebook = ""   #Facebook username
     twitter = ""    #Twitter username
     instagram = ""  #Instagram username
+
+[[menu.main]]
+name = "Posts"
+weight = 1
+identifier = "posts"
+url = "/posts"

@@ -10,7 +10,7 @@ Add only tracked files in index.
 ```
 $ git add -u
 ```
-
+<!--more-->
 
 
 #### Links

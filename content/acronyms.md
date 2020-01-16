@@ -15,6 +15,11 @@ Acronyms and abbreviations that I always forget
 + [https://dddcommunity.org/](https://dddcommunity.org/)
 
 
+### DSN {#DSN}
+**Data source name** is a string that has an associated data structure used to describe a connection to a data source.
+
+[https://en.wikipedia.org/wiki/Data_source_name](https://en.wikipedia.org/wiki/Data_source_name)
+
 ### GDPR {#GDPR}
 The European Union (EU) General Data Protection Regulation. It regulates the processing by an individual, a company or an organisation of personal data relating to individuals in the EU.
 

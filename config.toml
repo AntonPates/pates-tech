@@ -18,7 +18,7 @@ paginate = 100
 [params]
     title = "Tech notes"
     subtitle = ""
-    copyright = "Anton Pates 2018-2019"
+    copyright = "Anton Pates 2018-2021"
     paginate = 100
 
     # You can choose between green, orange, red and blue.
